@@ -1,6 +1,6 @@
-##Hiii👋, I'm Alan M Varghese 
+<b>Hiii👋, I'm Alan M Varghese</b> 
 
-##🔭 I’m currently working on Web Development and Cybersecurity
+<b>🔭 I’m currently working on Web Development and Cybersecurity</b>
 
 
 ## 🌐 Socials:
